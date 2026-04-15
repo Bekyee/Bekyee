@@ -1,5 +1,5 @@
 # Hi, I'm Becky
-I am an aspiring Data Analyst with a background in Accounting. I focus on using data to solve business problems and improve financial efficiency.
+I am an aspiring Data Analyst with a background in math. I focus on using data to solve business problems and improve financial efficiency.
 
 
 ## 🏆 Featured Projects
